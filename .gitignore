@@ -3,3 +3,6 @@
 
 # macOS folder attributes cache
 .DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
