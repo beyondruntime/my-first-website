@@ -1,2 +1,5 @@
 # VS Code workspace settings
 .vscode/
+
+# macOS folder attributes cache
+.DS_Store
