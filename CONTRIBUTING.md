@@ -1,6 +1,6 @@
 # Contributing to My First Website
 
-Thank you for your interest in contributing to **My First Website**! This open-source project is a beginner-friendly website built with HTML, CSS, and JavaScript. Contributions of all experience levels are welcome.
+Thank you for your interest in contributing to **My First Website**! This open-source project is a beginner-friendly website built with HTML, CSS, and JavaScript. I maintain this project on my own, and contributions of all experience levels are welcome. I review issues and pull requests and make the final decisions about what is merged.
 
 ## Ways to contribute
 
@@ -59,7 +59,7 @@ Thank you for your interest in contributing to **My First Website**! This open-s
 
 3. Open a pull request against the `master` branch of the original repository.
 4. Describe what changed, why it was needed, how you tested it, and which issue it addresses (if any).
-5. Respond respectfully to review feedback. Maintainers may request revisions before merging.
+5. Respond respectfully to review feedback. As the sole maintainer, I may request revisions before merging.
 
 ## Reporting bugs
 
@@ -70,3 +70,17 @@ When opening a bug report, include the steps to reproduce the problem, what you 
 By contributing, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
 
 Thank you for helping make this project better!
+
+## Maintainer contact and collaboration
+
+For general questions or proposals, you can contact me, the sole maintainer, **[@beyondruntime](https://github.com/beyondruntime)**:
+
+- **Website:** [mansurii.com](https://mansurii.com/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ismail-mansuri-670648240)
+- **Email:** [mansuriismail565@gmail.com](mailto:mansuriismail565@gmail.com)
+
+For bugs and feature requests, please use [GitHub Issues](https://github.com/beyondruntime/my-first-website/issues) so discussions are visible to contributors. To propose a meeting, email or message on LinkedIn with the topic and your availability.
+
+### Support the maintainer
+
+If you'd like to support the project, you can [buy me a coffee](https://buymeacoffee.com/ismailmansuri-). Contributions and participation are always welcome without a donation.
