@@ -1,48 +1,63 @@
 # Code of Conduct
 
-## My commitment
+## My Commitment
 
-As the sole maintainer, I want **My First Website** to be a welcoming, respectful, and beginner-friendly open-source community. Everyone participating in project discussions, issues, pull requests, and other community spaces is expected to treat others with courtesy, regardless of experience, background, or identity.
+As the sole maintainer of **My First Website**, I want participation in this open-source project to be welcoming, respectful, and constructive. These guidelines apply to everyone taking part in project spaces, regardless of experience or background.
 
-## Expected behaviour
+## Expected Behaviour
 
-- Be kind, respectful, and constructive.
+- Be respectful and considerate when communicating with others.
 - Welcome questions and contributions from beginners.
-- Give feedback about code and ideas without making personal attacks.
-- Respect differences in perspective and experience.
-- Take responsibility for mistakes and work to resolve disagreements calmly.
+- Offer constructive feedback about code, documentation, and ideas.
+- Respect different viewpoints and experiences.
+- Take responsibility for mistakes and aim to resolve disagreements constructively.
 
-## Unacceptable behaviour
+## Unacceptable Behaviour
 
-The following behaviour is not tolerated:
+Examples of unacceptable behaviour include:
 
-- Harassment, bullying, discrimination, or hateful language.
-- Personal insults, threats, or deliberate intimidation.
-- Unwanted sexual attention or inappropriate content.
-- Posting another person's private information without permission.
-- Repeated disruption of project discussions or reviews.
-
-## Reporting concerns
-
-If you encounter inappropriate behaviour, contact the maintainer privately at [mansuriismail565@gmail.com](mailto:mansuriismail565@gmail.com). Please use email rather than public GitHub issues to report sensitive incidents. You can also use GitHub's reporting and blocking tools when appropriate.
-
-Please provide relevant links and a description of the incident so it can be reviewed fairly.
-
-## Enforcement
-
-As the sole maintainer, I may remove inappropriate content, ask contributors to change their behaviour, temporarily restrict participation, or ban repeat or serious offenders. I will consider the context, severity, and impact of the behaviour when making these decisions.
+- Harassment, bullying, discrimination, or threats.
+- Personal attacks, insults, or deliberately disruptive comments.
+- Unwanted sexual attention or inappropriate sexual content.
+- Publishing someone's private information without their permission.
+- Repeatedly disrupting issues, pull requests, or project discussions.
 
 ## Scope
 
-This Code of Conduct applies to repository issues, pull requests, discussions, reviews, and other spaces where people represent or participate in the project.
+This Code of Conduct applies to participation in this project's GitHub issues, pull requests, reviews, discussions (if enabled), and other project-managed community spaces. It also applies when someone is explicitly representing the project in public.
 
-Thank you for helping build a positive community.
+## Reporting Concerns
 
-## Maintainer details
+If you experience or witness behaviour that may violate this Code of Conduct, you can report it privately to **[@beyondruntime](https://github.com/beyondruntime)** at [mansuriismail565@gmail.com](mailto:mansuriismail565@gmail.com).
+
+Please describe what happened and include relevant links or context where possible. Avoid posting sensitive reports or another person's private information in public GitHub issues.
+
+I will review reports as the sole maintainer, consider the available information, and handle sensitive details as discreetly as reasonably possible. I cannot promise absolute confidentiality or a fixed response time.
+
+You may also use GitHub's own reporting or blocking features where appropriate. Those features are managed by GitHub and are separate from this project's reporting process.
+
+## Enforcement
+
+As the sole maintainer, I may take action when conduct violates these guidelines. Depending on the circumstances and the tools available, actions may include:
+
+- Asking someone to stop or change their behaviour.
+- Editing, hiding, or removing inappropriate contributions or comments where GitHub permits.
+- Closing or declining issues and pull requests.
+- Restricting participation or blocking users where the platform permits.
+
+I will consider the circumstances, severity, and impact of the behaviour when deciding what response is appropriate. These are project guidelines, not a guarantee that every report will result in a particular action.
+
+## Maintainer and Contact
 
 - **Sole maintainer:** [@beyondruntime](https://github.com/beyondruntime)
 - **Website:** [mansurii.com](https://mansurii.com/)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ismail-mansuri-670648240)
 - **Private conduct reports:** [mansuriismail565@gmail.com](mailto:mansuriismail565@gmail.com)
 
-For general collaboration questions, contact the maintainer by email or LinkedIn. Please keep reports of conduct concerns private.
+For general questions about contributing, please see [CONTRIBUTING.md](CONTRIBUTING.md). Use private email rather than a public issue to report sensitive conduct concerns.
+
+## About This Policy
+
+This is a custom Code of Conduct for **My First Website**, not a verbatim copy of GitHub's templates or the Contributor Covenant. GitHub permits repositories to use a custom Code of Conduct.
+
+For reference, see [GitHub's guidance on adding a Code of Conduct](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project).
